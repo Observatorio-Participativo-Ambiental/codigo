@@ -9,4 +9,5 @@ Para usar o código na Estação OPA, consultar o ítem [3. Atualizar o código]
 
 -----
 Projeto desenvolvido por Artur V. Cordeiro.
+
 Cariri, 2024.
